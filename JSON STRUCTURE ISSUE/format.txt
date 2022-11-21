@@ -1,0 +1,46 @@
+[
+   {
+        “id”: 1,
+        “name”: “الفاتحة“,
+        “total_verses”: 7,
+        “verses”: [
+             {
+                   “id”: 1,
+                   “text”: “بِسۡمِ ٱللَّهِ ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ“,
+                   “translation”: [
+                       “en_ur”: “اللہ کے نام سے جو رحمان و رحیم ہے“,
+                        “en_en”: “English translation”,
+                        “en_persian”: “Persian translation”
+                    ]
+             },
+             {
+                   “id”: 2,
+                   “text”: “ٱلۡحَمۡدُ لِلَّهِ رَبِّ ٱلۡعَٰلَمِينَ“,
+                   “translation”: [
+                       “en_ur”: “تعریف اللہ ہی کے لیے ہے جو تمام کائنات کا رب ہے“,
+                        “en_en”: “English translation”,
+                        “en_persian”: “Persian translation”
+                    ]
+             },
+             ………..
+        ]
+   },
+   {
+       “id”: 1,
+        “name”: “البقرة“,
+        “total_verses”: 286,
+        “verses”: [
+                {
+                   “id”: 1,
+                   “text”: “الٓمٓ“,
+                   “translation”: [
+                       “en_ur”: “الف لام میم“,
+                        “en_en”: “English translation”,
+                        “en_persian”: “Persian translation”
+                    ]
+             },
+             …..
+        ]
+   },
+   …….
+]
